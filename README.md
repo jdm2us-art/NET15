@@ -113,15 +113,17 @@ show ip route ospf
 4. Информация о соседе через whois nic.ru
 Используя сайт nic.ru и информацию о соседе 43832, я выполнил whois-запрос. Информация доступна через whois-сервис nic.ru, в том числе через административный интерфейс . В ответе я получил данные об организации, владеющей этим AS, контактную информацию и сетевые префиксы .
 
-Скриншот 2: Вывод whois-запроса 43832 на сайте nic.ru
-
 Описание вывода:
 
 Информация по данным whois.ripe.net
+
 % This is the RIPE Database query service.
+
 % The objects are in RPSL format.
 %
+
 % The RIPE Database is subject to Terms and Conditions.
+
 % See https://docs.db.ripe.net/terms-conditions.html
 
 % Note: this output has been filtered.
