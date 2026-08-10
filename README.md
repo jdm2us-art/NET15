@@ -1,7 +1,7 @@
 # Задание 1.
 Кейс: топология сети на картинке. Для построения сети воспользуйтесь Cisco Packet Tracer.
 
-[.png](https://user-images.githubusercontent.com/85602495/159116773-5da18c0c-0174-4055-8854-148aa7c04c6f.png)
+![](https://user-images.githubusercontent.com/85602495/159116773-5da18c0c-0174-4055-8854-148aa7c04c6f.png)
 
 Необходимо:
 
